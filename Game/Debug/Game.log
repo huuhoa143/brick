@@ -1,0 +1,6 @@
+﻿  Game.cpp
+c:\users\hp\documents\game\game\game.cpp(83): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\hp\documents\game\game\game.cpp(121): warning C4018: '<': signed/unsigned mismatch
+c:\users\hp\documents\game\game\game.cpp(541): warning C4838: conversion from 'int' to 'Uint8' requires a narrowing conversion
+c:\users\hp\documents\game\game\game.cpp(542): warning C4838: conversion from 'int' to 'Uint8' requires a narrowing conversion
+  Game.vcxproj -> C:\Users\HP\Documents\Game\Debug\Game.exe
